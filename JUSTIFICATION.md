@@ -1,4 +1,4 @@
-# JUSTIFICATION — the design of the harness, and why
+# JUSTIFICATION - the design of the harness, and why
 
 ## 1. What the system may do
 
