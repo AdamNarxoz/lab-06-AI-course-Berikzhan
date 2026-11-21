@@ -120,3 +120,11 @@ bracket); prompt-wording sensitivity (scores moved 14.92 on average); a tamper-p
 applicants and an appeal route; testing with more than 40 pairs per group. Closing these needs more runs, storage
 infrastructure and the fund's own processes, which were out of scope for this lab's time.
 
+## AI-use declaration
+
+I used Claude (Anthropic) during this assignment. It read the repository and the supplied code, drafted the code for
+my refusal rule, escalation rule, harness configuration and control register, and drafted the observation texts,
+this justification and the report from the numbers that my own notebook printed in Colab. I ran the notebook myself
+and checked that the numbers quoted here match my output. The legal and ethical citations were proposed by the AI
+tool; I am responsible for checking them against the primary texts (adilet.zan.kz, EUR-Lex, OECD, UNESCO), and any
+provision I could not verify should be read as unverified.
